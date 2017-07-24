@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "90d486eef45906bdd1f4a37461e8d7d2"
+build_time: [554180560, 356583000]
+inputs:
+  "/Users/olive/Desktop/\u9673\u8001\u5E2B/CloudsApp/CloudsApp/ViewController.swift": [554180557, 0]
+  "/Users/olive/Desktop/\u9673\u8001\u5E2B/CloudsApp/CloudsApp/AppDelegate.swift": [554180557, 0]
