@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/olive/Desktop/\u9673\u8001\u5E2B/CloudsApp/DerivedData/CloudsApp/Build/Products/Debug-iphonesimulator/Alamofire.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Alamofire-Swift.h",
+          'external-contents': "/Users/olive/Desktop/\u9673\u8001\u5E2B/CloudsApp/DerivedData/CloudsApp/Build/Products/Debug-iphonesimulator/Alamofire.framework/Headers/Alamofire-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Alamofire.h",
+          'external-contents': "/Users/olive/Desktop/\u9673\u8001\u5E2B/CloudsApp/alamofire/Source/Alamofire.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/olive/Desktop/\u9673\u8001\u5E2B/CloudsApp/DerivedData/CloudsApp/Build/Products/Debug-iphonesimulator/Alamofire.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/olive/Desktop/\u9673\u8001\u5E2B/CloudsApp/DerivedData/CloudsApp/Build/Intermediates/Alamofire.build/Debug-iphonesimulator/Alamofire iOS.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
